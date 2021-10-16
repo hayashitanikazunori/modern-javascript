@@ -1,2 +1,2 @@
-# modern-javascript
+# react-test
 Created with CodeSandbox
